@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rai-Khushboo
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning various technologies.
 - 💞️ I’m looking to collaborate in opensource.
 - 📫 How to reach me -through my e-mail or via linkedin
 
