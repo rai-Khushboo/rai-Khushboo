@@ -1,6 +1,6 @@
 # 🙌 Greetings, Everyone!!🌟 Welcome to My GitHub Profile.💻
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=followers&url=https://api.github.com/users/rai-Khushboo)
+![Profile Views](https://komarev.com/ghpvc/?username=rai-Khushboo&color=blueviolet)
 
 ## 👋 About Me
 Hi! 👀  I'm a passionate programmer with expertise in C++ and frontend development🌱. I love 💞 creating beautiful and functional web applications using HTML, CSS, JavaScript, and React. I also have experience with MySQL for database management 📫 .
