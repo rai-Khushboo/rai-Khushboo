@@ -43,6 +43,11 @@ Hi! 👀  I'm a passionate programmer with expertise in C++ and frontend develop
 - **SQL**: Used for database management and querying in MySQL.
 - **React**: My preferred library for building dynamic and responsive user interfaces.
 
+ # 🌟 Inspirational Quotes 🌟
+ ---
+## "🌟Practice like you never win 🏅 and perform like you never lose 🏆.🌟"
+---
+
 *Thank you for visiting my profile😊! Feel free to explore my repositories🗃️ and connect with me🤝.*
 
 <!---
