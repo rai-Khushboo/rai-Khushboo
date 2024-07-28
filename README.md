@@ -48,6 +48,9 @@ Hi! 👀  I'm a passionate programmer with expertise in C++ and frontend develop
 ## "🌟Practice like you never win 🏅 and perform like you never lose 🏆.🌟"
 ---
 
+# Fun Fact😄✨
+### Friendly and helpful—that’s me in a nutshell! 🌟
+
 *Thank you for visiting my profile😊! Feel free to explore my repositories🗃️ and connect with me🤝.*
 
 <!---
