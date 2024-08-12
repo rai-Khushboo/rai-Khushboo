@@ -5,7 +5,7 @@
 ## 👋 About Me
 Hi! 👀  I'm a passionate programmer with expertise in C++ and frontend development🌱. I love 💞 creating beautiful and functional web applications using HTML, CSS, JavaScript, and React. I also have experience with MySQL for database management 📫 .
 
-<img align="right" alt="Girl Programming" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" width="300" />
+<img align="center" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ5dmNzMnl6dzFhNXAycXV4OTI5bXEzYWE0OW92cm9lMGRmM3RlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="500"/>
 
 ## 🛠️ My Skills
 ## Programming Languages🟨🌐📜  :
